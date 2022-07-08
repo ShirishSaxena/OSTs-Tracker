@@ -7,6 +7,7 @@
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+/app/build
 .DS_Store
 /build
 /captures
@@ -14,3 +15,6 @@
 .cxx
 local.properties
 .idea/compiler.xml
+.idea/gradle.xml
+.idea/misc.xml
+app/build/generated/source/buildConfig/androidTest/debug/com/example/testdroidapp/test/BuildConfig.java
